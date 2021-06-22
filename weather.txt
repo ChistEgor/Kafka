@@ -1,0 +1,22 @@
+Kharkiv
+Day - 2019-12-10   Temp - 1.1
+Day - 2019-12-11   Temp - 1.5
+Day - 2019-12-12   Temp - 1.8
+Day - 2019-12-13   Temp - 0.4
+Day - 2019-12-14   Temp - 0.7
+Day - 2019-12-15   Temp - 4.5
+Day - 2019-12-16   Temp - 2.2
+Day - 2019-12-17   Temp - 1.9
+Day - 2019-12-18   Temp - 4.5
+Day - 2019-12-19   Temp - 5.4
+Day - 2019-12-20   Temp - 0.4
+Day - 2019-12-21   Temp - 1.1
+Day - 2019-12-22   Temp - 7.5
+Day - 2019-12-23   Temp - 7.6
+Day - 2019-12-24   Temp - 4.1
+Day - 2019-12-25   Temp - 1.9
+Day - 2019-12-26   Temp - 0.5
+Day - 2019-12-27   Temp - 2.3
+Day - 2019-12-28   Temp - 2.9
+Day - 2019-12-29   Temp - -1.8
+Day - 2019-12-30   Temp - -4.0
